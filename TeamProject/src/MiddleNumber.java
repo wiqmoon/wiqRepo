@@ -88,8 +88,8 @@ public class MiddleNumber {
 	}
 	
 	public static void main(String[] args) {
-		int middle = new MiddleNumber().MiddleCheck();
-		System.out.println(middle);
+		new MiddleNumber().MiddleNumberNoApi();
+		
 	}
 
 }
