@@ -10,6 +10,7 @@
 	Hi! It's time to sleep!!
 	Ni hao!!
 	Bonjour!!
+	하하!!
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
