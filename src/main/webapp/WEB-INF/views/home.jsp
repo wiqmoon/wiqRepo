@@ -8,6 +8,7 @@
 <h1>
 	Hello world!
 	Hi! It's time to sleep!!
+	Ni hao!!
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
